@@ -1,0 +1,11 @@
+html,body{
+    margin: 0;
+}
+.one{
+    /* margin-top: 50px; */
+    color: white;
+    text-align: center;
+    border: 1px solid black;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.87);
+}
